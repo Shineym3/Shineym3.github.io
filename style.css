@@ -1,0 +1,14 @@
+div{
+	text-decoration: underline;
+}
+p{
+	font-size: 14px;
+	margin-top: 85px;
+	margin-bottom: 85px;
+}
+p::first-letter {
+  font-weight: bold;
+  color: darkblue;
+  font-size: 172px;
+  line-height: .1;
+}
