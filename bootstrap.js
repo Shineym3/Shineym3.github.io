@@ -26,6 +26,7 @@
   /* CSS TRANSITION SUPPORT (http://www.modernizr.com/)
    * ======================================================= */
 
+  $(function () {
 
     $.support.transition = (function () {
 
